@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Projetin React: http://wesley873.github.io/projetin
         </a>
       </header>
     </div>
